@@ -9,11 +9,11 @@ This is built using the Telethon library. It listens for messages from a specifi
 0. **Clone the Repository**:
    - Clone this repository to your local machine:
      ```bash
-     git clone https://github.com/your-username/your-repo-name.git
+     git clone https://github.com/Heiliger4/Auto-telegram-insult.git
      ```
    - Navigate to the project directory:
      ```bash
-     cd your-repo-name
+     cd Auto-telegram-insult
      ```
 
 1. **Install Dependencies**:
